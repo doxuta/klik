@@ -53,3 +53,77 @@ Klik CLI empowers developers and script lovers to instantly scaffold and run cus
 
 ```bash
 npm install -g @doxuta/klik
+```
+
+---
+
+## 5. Usage
+
+### Create a New Command
+
+```bash
+klik create greet
+```
+
+### List Available Commands
+
+```bash
+klik list
+```
+
+### Run a Command
+
+```bash
+klik greet
+```
+
+---
+
+## 6. Ecosystem Metrics
+
+- 📦 **Total Commands Deployed**: Updates as you run `klik create`.
+- 🧩 **Local CLI Tooling**: Entire ecosystem is stored in a single folder.
+
+---
+
+## 7. Roadmap
+
+- ✅ **v1.0**: Basic CLI command system with create, list, and config support.
+- 🔜 **v1.1**: Command aliases, delete, and rename support.
+- 🚧 **v2.0**: Plugin system and interactive CLI prompts.
+- ✨ **v2.1**: CLI project templates (React, Express, etc.)
+- 🧠 **Future**: Remote command registry, AI-assisted script generation.
+
+---
+
+## 8. Community & Support
+
+- 📢 **Telegram**: [@klikCLIchannel](https://t.me/klikCLIchannel) *(coming soon)*
+- 📚 **Documentation**: See `/docs` folder *(WIP)*
+- 🐛 **GitHub Issues**: [Klik GitHub Repo](https://github.com/doxuta/klik/issues)
+
+---
+
+## 9. License
+
+This project is released under the **MIT License**.
+
+---
+
+## 10. Mascot: KliKko the Clicker
+
+Meet **KliKko**, our high-speed code-generating sidekick:
+
+- ✋ **Appearance**: A minimalist mechanical hand with keys that glow when clicked.
+- 😄 **Personality**: Playful, helpful, and obsessed with productivity.
+- 🧠 **Role**: Pops up when creating commands and celebrates new ones with a glow animation.
+
+### Usage Guidelines
+
+- 💡 **Docs**: Use KliKko to highlight tips and shortcuts.
+- 🎉 **Animations**: A quick glow when a command is created.
+- 🎨 **Merch**: Terminal sticker packs + pixel art versions coming soon!
+
+---
+
+🚀 **Ready to klik?** Start building your own CLI in seconds!
