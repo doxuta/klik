@@ -112,7 +112,9 @@ This project is released under the **MIT License**.
 
 ## 10. Mascot: KliKko the Clicker
 
-Meet **KliKko**, our high-speed code-generating sidekick:
+![KliKko Mascot](/docs/klikko.PNG)
+
+Meet KliKko, our high-speed code-generating sidekick:
 
 - ✋ **Appearance**: A minimalist mechanical hand with keys that glow when clicked.
 - 😄 **Personality**: Playful, helpful, and obsessed with productivity.
