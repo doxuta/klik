@@ -120,7 +120,7 @@ Meet Klika, our energetic Dapp mascot on Ethereum:
 
 🚀 Role: Greets users in the app, boosts morale with positive vibes, and makes every interaction more fun with playful animations.
 
-![Klika Mascot](/docs/klikko.PNG)
+![Klika Mascot](/docs/klika.png)
 
 ### Usage Guidelines
 
