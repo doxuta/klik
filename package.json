@@ -1,0 +1,15 @@
+{
+  "name": "@doxuta/klik",
+  "version": "1.0.0",
+  "description": "A lightweight CLI framework",
+  "main": "index.js",
+  "bin": {
+    "klik": "./bin/klik.js"
+  },
+  "scripts": {
+    "start": "node bin/klik.js"
+  },
+  "keywords": ["cli", "tool"],
+  "author": "doxuta",
+  "license": "MIT"
+}
