@@ -1,4 +1,3 @@
-
 # Klik CLI
 
 Welcome to Klik CLI, the fastest and easiest way to build your own custom command-line tools — no boilerplate or config required. In just a few kliks, you can create, run, and manage reusable CLI commands with ease.
@@ -47,64 +46,10 @@ Klik CLI empowers developers and script lovers to instantly scaffold and run cus
 
 ### Prerequisites
 
-- Node.js ≥ v14
+- Node.js ≥ v14  
 - `npm` or `yarn`
 
 ### Install via NPM
 
 ```bash
 npm install -g @doxuta/klik
-
-### Create a New Command
-
-```bash
-klik create greet
-
-## 6. Ecosystem Metrics
-
-- **Total Commands Deployed**: Updates as you run `klik create`.
-- **Local CLI Tooling**: Entire ecosystem is stored in a single folder.
-
----
-
-## 7. Roadmap
-
-- **v1.0**: Basic CLI command system with `create`, `list`, and config support.
-- **v1.1**: Command aliases, delete, and rename support.
-- **v2.0**: Plugin system and interactive CLI prompts.
-- **v2.1**: CLI project templates (React, Express, etc.)
-- **Future**: Remote command registry, AI-assisted script generation.
-
----
-
-## 8. Community & Support
-
-- 📢 **Telegram**: [@klikCLIchannel](https://t.me/klikCLIchannel) *(coming soon)*
-- 📚 **Documentation**: `/docs` folder *(Work in Progress)*
-- 🐛 **GitHub Issues**: [Klik GitHub Repo](https://github.com/doxuta/klik/issues)
-
----
-
-## 9. License
-
-This project is released under the **MIT License**.
-
----
-
-## 10. Mascot: KliKko the Clicker
-
-Meet **KliKko**, our high-speed code-generating sidekick:
-
-- ✋ **Appearance**: A minimalist mechanical hand with keys that glow when clicked.
-- 😄 **Personality**: Playful, helpful, and obsessed with productivity.
-- 🧠 **Role**: Pops up when creating commands and celebrates new ones with a glow animation.
-
-### Usage Guidelines
-
-- 💡 **Docs**: Use KliKko to highlight tips and shortcuts.
-- 🎉 **Animations**: A quick glow when a command is created.
-- 🎨 **Merch**: Terminal sticker packs + pixel art versions coming soon!
-
----
-
-🚀 **Ready to klik?** Start building your own CLI in seconds!
