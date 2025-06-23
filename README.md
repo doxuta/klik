@@ -1,5 +1,4 @@
-<details>
-<summary>Bấm để xem toàn bộ README (click để mở rộng)</summary>
+
 # Klik CLI
 
 Welcome to Klik CLI, the fastest and easiest way to build your own custom command-line tools — no boilerplate or config required. In just a few kliks, you can create, run, and manage reusable CLI commands with ease.
@@ -55,7 +54,6 @@ Klik CLI empowers developers and script lovers to instantly scaffold and run cus
 
 ```bash
 npm install -g @doxuta/klik
-## 5. Usage
 
 ### Create a New Command
 
