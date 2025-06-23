@@ -7,6 +7,10 @@
     {
       "name": "bye",
       "script": "scripts/bye.js"
+    },
+    {
+      "name": "greet",
+      "script": "scripts/greet.js"
     }
   ]
 }

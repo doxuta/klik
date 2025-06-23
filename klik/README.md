@@ -1,3 +1,10 @@
+# Klik CLI
+
+![npm (scoped)](https://img.shields.io/npm/v/@doxuta/klik)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@doxuta/klik)
+![npm downloads](https://img.shields.io/npm/dm/@doxuta/klik)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # klik
 
 A lightweight CLI framework
@@ -14,3 +21,9 @@ A lightweight CLI framework
 
 ```bash
 npm install -g klik
+
+## 10. Mascot: KliKko the Clicker
+
+![KliKko mascot](docs/klikko.png)
+
+Gặp gỡ **KliKko**...
