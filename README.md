@@ -110,22 +110,20 @@ This project is released under the **MIT License**.
 
 ---
 
-## 10. Mascot: KliKko the Clicker
+## 10. Mascot: Klika
 
-![KliKko Mascot](/docs/klikko.PNG)
+Meet Klika, our energetic Dapp mascot on Ethereum:
 
-Meet KliKko, our high-speed code-generating sidekick:
+⚡ Appearance: A cheerful geometric character with a bold triangle shape, pastel blue and pink stripes, big expressive eyes, and comfy sneakers.
 
-- ✋ **Appearance**: A minimalist mechanical hand with keys that glow when clicked.
-- 😄 **Personality**: Playful, helpful, and obsessed with productivity.
-- 🧠 **Role**: Pops up when creating commands and celebrates new ones with a glow animation.
+😎 Personality: Friendly, confident, and always ready to give a thumbs up for your decentralized adventures.
+
+🚀 Role: Greets users in the app, boosts morale with positive vibes, and makes every interaction more fun with playful animations.
+
+![Klika Mascot](/docs/klikko.PNG)
 
 ### Usage Guidelines
 
-- 💡 **Docs**: Use KliKko to highlight tips and shortcuts.
+- 💡 **Docs**: Use Klika to highlight tips and shortcuts.
 - 🎉 **Animations**: A quick glow when a command is created.
 - 🎨 **Merch**: Terminal sticker packs + pixel art versions coming soon!
-
----
-
-🚀 **Ready to klik?** Start building your own CLI in seconds!
