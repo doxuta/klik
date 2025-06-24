@@ -118,5 +118,5 @@ Meet Klinu, our energetic meme-creating companion:
 😄 Personality: Cheerful, loyal, and always ready to spark creativity.
 🧠 Role: Klinu appears whenever you’re crafting memes on Klik, wagging its tail with excitement and sending out playful pings as you mint your creations.
 
-![Klinu Mascot](/docs/klika.png)
+![Klinu Mascot](/docs/klinu.png)
 
