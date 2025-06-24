@@ -110,20 +110,13 @@ This project is released under the **MIT License**.
 
 ---
 
-## 10. Mascot: Klika
+## 10. Mascot: Klinu
 
-Meet Klika, our energetic Dapp mascot on Ethereum:
+Meet Klinu, our energetic meme-creating companion:
 
-⚡ Appearance: A cheerful geometric character with a bold triangle shape, pastel blue and pink stripes, big expressive eyes, and comfy sneakers.
+🐾 Appearance: A pastel blue-and-pink Shiba Inu with a geometric, pixel-art vibe and an ever-curious expression.
+😄 Personality: Cheerful, loyal, and always ready to spark creativity.
+🧠 Role: Klinu appears whenever you’re crafting memes on Klik, wagging its tail with excitement and sending out playful pings as you mint your creations.
 
-😎 Personality: Friendly, confident, and always ready to give a thumbs up for your decentralized adventures.
+![Klinu Mascot](/docs/klika.png)
 
-🚀 Role: Greets users in the app, boosts morale with positive vibes, and makes every interaction more fun with playful animations.
-
-![Klika Mascot](/docs/klika.png)
-
-### Usage Guidelines
-
-- 💡 **Docs**: Use Klika to highlight tips and shortcuts.
-- 🎉 **Animations**: A quick glow when a command is created.
-- 🎨 **Merch**: Terminal sticker packs + pixel art versions coming soon!
