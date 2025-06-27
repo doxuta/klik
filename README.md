@@ -110,13 +110,13 @@ This project is released under the **MIT License**.
 
 ---
 
-## 10. Mascot: Klinu
+## 10. Mascot: Klibull
 
-Meet Klinu, our energetic meme-creating companion:
+Meet **Klibull**, our bold, blockchain-charging buddy:
 
-🐾 Appearance: A pastel blue-and-pink Shiba Inu with a geometric, pixel-art vibe and an ever-curious expression.
-😄 Personality: Cheerful, loyal, and always ready to spark creativity.
-🧠 Role: Klinu appears whenever you’re crafting memes on Klik, wagging its tail with excitement and sending out playful pings as you mint your creations.
+- 🐂 **Appearance**: A cheerful cartoon bull with a glossy pastel coat of Ethereum-inspired pink and blue, outlined in bold lines and brimming with energy.
+- 😄 **Personality**: Energetic, optimistic, and fiercely loyal. Klibull is always ready to charge into action, especially when it involves community creativity.
+- ⚡ **Role**: Shows up when users mint or remix memes on Klik, stomping joyfully and leaving behind a sparkle trail of motivation. When a creation hits just right, he gives a proud head nod and flashes his iconic grin.
 
-![Klinu Mascot](/docs/klinu.png)
+![Klibull Mascot](/docs/klibull.png)
 
