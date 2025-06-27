@@ -128,7 +128,7 @@ This project is released under the **MIT License**.
 ## 10. Mascot: Teki – The Regal Meme Whisperer of TWAP
 
 <p align="center">
-  <img src="docs/bao.png" alt="Bao" width="100"/>
+  <img src="docs/bao.png" alt="Bao" width="300"/>
   <br/>
   <img src="docs/teki.png" alt="Teki the TWAP Cat Mascot" width="300"/>
 </p>
