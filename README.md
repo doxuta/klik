@@ -125,14 +125,20 @@ This project is released under the **MIT License**.
 
 ---
 
-## 10. Mascot: Klibull
-
-Meet **Klibull**, our bold, blockchain-charging buddy:
-
-- 🐂 **Appearance**: A cheerful cartoon bull with a glossy pastel coat of Ethereum-inspired pink and blue, outlined in bold lines and brimming with energy.  
-- 😄 **Personality**: Energetic, optimistic, and fiercely loyal. Klibull is always ready to charge into action, especially when it involves community creativity.  
-- ⚡ **Role**: Shows up when users mint or remix memes on Twap, stomping joyfully and leaving behind a sparkle trail of motivation. When a creation hits just right, he gives a proud head nod and flashes his iconic grin.
+## 10. Mascot: Teki – The Regal Meme Whisperer of TWAP
 
 <p align="center">
-  <img src="docs/klibull.png" alt="Klibull Mascot" width="300"/>
+  <img src="docs/teki.png" alt="Teki the TWAP Cat Mascot" width="280"/>
 </p>
+
+Why did we choose **Teki** as the mascot for **TWAP**?
+
+Because only a cat with this much grace, sass, and perfectly crossed paws could represent the true spirit of meme culture on-chain.
+
+- 😼 **Calm but Calculated**: Teki doesn't chase — Teki waits. Just like TWAP (Time-Weighted Average Pricing), Teki understands the art of timing.
+- 🧠 **Sharp Gaze, Sharper Wit**: Behind those half-closed eyes is a tactical mind. Every meme minted on TWAP is judged silently by Teki’s unimpressed look of feline authority.
+- 👑 **Meme Royalty Vibes**: Perched like a king on a throne (or a pillow-stool), Teki exudes the kind of chill power that every successful meme coin dreams of.
+- 💡 **Symbol of Balance**: Meme creation needs edge and elegance. Teki’s zen aura captures both — a purring reminder that memes can move markets.
+
+> 🌀 In a world of chaos, **Teki is the eye of the storm**.  
+> The perfect mascot to represent the balance between **time-based strategy** and **meme-powered magic**.
