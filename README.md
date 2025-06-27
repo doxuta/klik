@@ -19,26 +19,41 @@ Welcome to Twap CLI, the fastest and easiest way to build your own custom comman
 
 ## 1. Overview
 
-Twap CLI empowers developers and script lovers to instantly scaffold and run custom CLI commands from a simple JSON config file. No more messing with argument parsers or `bin` setup—just create, twap, and run.
+Twap CLI empowers developers and script lovers to instantly scaffold and run custom CLI commands from a simple JSON config file. No more messing with argument parsers or `bin` setup — just create, twap, and run.
 
 ---
 
 ## 2. Features
 
-- ⚙️ **No-Boilerplate Setup**: Build a working CLI tool with a single config file and script folder.
-- ⚡ **twap create**: Instantly generate a new command script with just one line.
-- 📜 **twap list**: View all your available commands at any time.
-- 🔧 **JSON-based Configuration**: Easily register and organize your scripts via `twap.config.json`.
+- ⚙️ **No-Boilerplate Setup**: Build a working CLI tool with a single config file and script folder.  
+- ⚡ **twap create**: Instantly generate a new command script with just one line.  
+- 📜 **twap list**: View all your available commands at any time.  
+- 🔧 **JSON-based Configuration**: Easily register and organize your scripts via `twap.config.json`.  
 - 🚀 **Plug-and-Play**: Works out of the box with Node.js, no dependencies required.
 
 ---
 
 ## 3. How It Works
 
-1. **Install**: Use `npm install -g @doxuta/twap` to install CLI globally.  
-2. **Create**: Use `twap create <name>` to auto-generate a new command.  
-3. **Run**: Execute with `twap <name>`.  
-4. **Manage**: View commands via `twap list`.
+1. **Install**  
+   ```bash
+   npm install -g @doxuta/twap
+   ```
+
+2. **Create**  
+   ```bash
+   twap create <name>
+   ```
+
+3. **Run**  
+   ```bash
+   twap <name>
+   ```
+
+4. **Manage**  
+   ```bash
+   twap list
+   ```
 
 ---
 
@@ -53,6 +68,9 @@ Twap CLI empowers developers and script lovers to instantly scaffold and run cus
 
 ```bash
 npm install -g @doxuta/twap
+```
+
+---
 
 ## 5. Usage
 
@@ -60,40 +78,52 @@ npm install -g @doxuta/twap
 
 ```bash
 twap create greet
+```
 
-List Available Commands
+### List Available Commands
+
+```bash
 twap list
+```
 
-Run a Command
+### Run a Command
+
+```bash
 twap greet
+```
 
-6. Ecosystem Metrics
-	•	📦 Total Commands Deployed: Updates as you run twap create.
-	•	🧩 Local CLI Tooling: Entire ecosystem is stored in a single folder.
+---
 
-⸻
+## 6. Ecosystem Metrics
 
-7. Roadmap
-	•	✅ v1.0: Basic CLI command system with create, list, and config support.
-	•	🔜 v1.1: Command aliases, delete, and rename support.
-	•	🚧 v2.0: Plugin system and interactive CLI prompts.
-	•	✨ v2.1: CLI project templates (React, Express, etc.)
-	•	🧠 Future: Remote command registry, AI-assisted script generation.
+- 📦 **Total Commands Deployed**: Updates as you run `twap create`.
+- 🧩 **Local CLI Tooling**: Entire ecosystem is stored in a single folder.
 
-⸻
+---
 
-8. Community & Support
-	•	📢 Telegram: @twapCLIchannel (coming soon)
-	•	📚 Documentation: See /docs folder (WIP)
-	•	🐛 GitHub Issues: Twap GitHub Repo
+## 7. Roadmap
 
-⸻
+- ✅ **v1.0**: Basic CLI command system with create, list, and config support.
+- 🔜 **v1.1**: Command aliases, delete, and rename support.
+- 🚧 **v2.0**: Plugin system and interactive CLI prompts.
+- ✨ **v2.1**: CLI project templates (React, Express, etc.)
+- 🧠 **Future**: Remote command registry, AI-assisted script generation.
 
-9. License
+---
 
-This project is released under the MIT License.
+## 8. Community & Support
 
-⸻
+- 📢 **Telegram**: [@twapCLIchannel](https://t.me/twapCLIchannel) *(coming soon)*
+- 📚 **Documentation**: See `/docs` folder *(WIP)*
+- 🐛 **GitHub Issues**: [Twap GitHub Repo](https://github.com/doxuta/twap/issues)
+
+---
+
+## 9. License
+
+This project is released under the **MIT License**.
+
+---
 
 ## 10. Mascot: Klibull
 
