@@ -54,32 +54,26 @@ Twap CLI empowers developers and script lovers to instantly scaffold and run cus
 ```bash
 npm install -g @doxuta/twap
 
----
-
-##5. Usage
+## 5. Usage
 
 ### Create a New Command
 
 ```bash
 twap create greet
 
-### List Available Commands
-
-```bash
+List Available Commands
 twap list
 
-### Run a Command
-
-```bash
+Run a Command
 twap greet
 
-## 6. Ecosystem Metrics
+6. Ecosystem Metrics
 	•	📦 Total Commands Deployed: Updates as you run twap create.
 	•	🧩 Local CLI Tooling: Entire ecosystem is stored in a single folder.
 
 ⸻
 
-### 7. Roadmap
+7. Roadmap
 	•	✅ v1.0: Basic CLI command system with create, list, and config support.
 	•	🔜 v1.1: Command aliases, delete, and rename support.
 	•	🚧 v2.0: Plugin system and interactive CLI prompts.
@@ -88,22 +82,27 @@ twap greet
 
 ⸻
 
-### 8. Community & Support
+8. Community & Support
 	•	📢 Telegram: @twapCLIchannel (coming soon)
 	•	📚 Documentation: See /docs folder (WIP)
 	•	🐛 GitHub Issues: Twap GitHub Repo
 
 ⸻
 
-### 9. License
+9. License
 
 This project is released under the MIT License.
 
 ⸻
 
-10. Mascot: Klibull
+## 10. Mascot: Klibull
 
-Meet Klibull, our bold, blockchain-charging buddy:
-	•	🐂 Appearance: A cheerful cartoon bull with a glossy pastel coat of Ethereum-inspired pink and blue, outlined in bold lines and brimming with energy.
-	•	😄 Personality: Energetic, optimistic, and fiercely loyal. Klibull is always ready to charge into action, especially when it involves community creativity.
-	•	⚡ Role: Shows up when users mint or remix memes on Twap, stomping joyfully and leaving behind a sparkle trail of motivation. When a creation hits just right, he gives a proud head nod and flashes his iconic grin.
+Meet **Klibull**, our bold, blockchain-charging buddy:
+
+- 🐂 **Appearance**: A cheerful cartoon bull with a glossy pastel coat of Ethereum-inspired pink and blue, outlined in bold lines and brimming with energy.  
+- 😄 **Personality**: Energetic, optimistic, and fiercely loyal. Klibull is always ready to charge into action, especially when it involves community creativity.  
+- ⚡ **Role**: Shows up when users mint or remix memes on Twap, stomping joyfully and leaving behind a sparkle trail of motivation. When a creation hits just right, he gives a proud head nod and flashes his iconic grin.
+
+<p align="center">
+  <img src="docs/klibull.png" alt="Klibull Mascot" width="300"/>
+</p>
